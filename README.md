@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @victoristocrat
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Quantitative Analysis with Python
-- 📫 Reach me via Telegram
+- 👋 Hi, I’m Victor
+- 👀 I’m a self-taught developer in Python and Javascript.
+- 🚗 I'm currently following the full-stack roadmap (Django back-end and React front-end)
+- 🌱 I’m currently learning more about Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on Quantitative Analysis, Algorithmic Trading and Backtesting.
+- 📫 Reach me via Telegram @victoristocrat
 
 <!---
 victoristocrat/victoristocrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
