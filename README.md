@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Victor
-- 👀 I’m a self-taught developer in Python and Javascript.
-- 🚗 I'm currently following the full-stack roadmap (Django back-end and React front-end)
-- 🌱 I’m currently learning more about Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Quantitative Analysis, Algorithmic Trading and Backtesting.
-- 📫 Reach me via Telegram @victoristocrat
+- 👋 Hi, I’m Victor.
+- 👀 I’m a self-taught fullstack developer in Python and Javascript.
+- 📖 Currently reading up a lot on Solidity for Ethereum development.
+- 🤝 I’m looking to collaborate on Quantitative Analysis, Algorithmic Trading, Backtesting and Smart Contract Development.
+- ✨ I want to contribute more to opensource repositories.
+- 🏗️ I build [pyhash.com](https://pyhash.com) and [defi.vn](https://defi.vn)
+- 📫 Reach me via Telegram [@victoristocrat](https://t.me/victoristocrat).
 
 <!---
 victoristocrat/victoristocrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
