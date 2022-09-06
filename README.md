@@ -3,7 +3,7 @@
 - 📖 Currently reading up a lot on Solidity for Ethereum development.
 - 🤝 I’m looking to collaborate on Quantitative Analysis, Algorithmic Trading, Backtesting and Smart Contract Development.
 - ✨ I want to contribute more to opensource repositories.
-- 🏗️ I build [pyhash.com](https://pyhash.com) and [defi.vn](https://defi.vn)
+- 🏗️ I build [defi.vn](https://defi.vn)
 - 📫 Reach me via Telegram [@victoristocrat](https://t.me/victoristocrat).
 
 <!---
